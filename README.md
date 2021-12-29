@@ -1,21 +1,22 @@
 # Cybersecurity Analytics
 > A collection of awesome software, libraries, learning tutorials, documents and books, technical resources and cool stuff about Analytics Engineering in Cybersecurity.
 
-- [Cybersecurity Analytics](#cybersecurity-analytics)
-    - [General analytics](#general-analytics)
-    - [Real-time](#real-time)
-    - [Website analytics](#website-analytics)
-    - [Endpoints](#endpoints)
-    - [SEO](#seo)
-    - [Privacy focused analytics](#privacy-focused-analytics)
-    - [Heatmap analytics](#heatmap-analytics)
-    - [Analytics layers](#analytics-layers)
-    - [Mobile analytics](#mobile-analytics)
-    - [App store analytics](#app-store-analytics)
-    - [Attribution tracking](#attribution-tracking)
-    - [Social media analytics](#social-media-analytics)
-    - [Analytics dashboards](#analytics-dashboards)
-    - [Developer analytics](#developer-analytics)
+## Table of Contents
+
+  - [General analytics](#general-analytics)
+  - [Real-time](#real-time)
+  - [Website analytics](#website-analytics)
+  - [Endpoints](#endpoints)
+  - [SEO](#seo)
+  - [Privacy focused analytics](#privacy-focused-analytics)
+  - [Heatmap analytics](#heatmap-analytics)
+  - [Analytics layers](#analytics-layers)
+  - [Mobile analytics](#mobile-analytics)
+  - [App store analytics](#app-store-analytics)
+  - [Attribution tracking](#attribution-tracking)
+  - [Social media analytics](#social-media-analytics)
+  - [Analytics dashboards](#analytics-dashboards)
+  - [Developer analytics](#developer-analytics)
     
 - [Other Awesome Lists](#other-awesome-lists)
 
