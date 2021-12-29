@@ -16,7 +16,7 @@
 - [Social media analytics](#social-media-analytics)
 - [Analytics dashboards](#analytics-dashboards)
 - [Developer analytics](#developer-analytics)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Other PaulVeillard Lists](#other-paulveillard-lists)
 
 ## General analytics
 * [userTrack](https://www.usertrack.net/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more. `©` `Self-Hosted` `PHP`
@@ -190,7 +190,7 @@ Often there is no clear differentiation between social media management and anal
 * [EDA](https://eda.jortilles.com/en/jortilles-english/) - EDA is an user friendly Analtical Tool specially designed for busines users.  ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
 
 # Other Awesome Lists
-- Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+- Other cybersecurity lists [Cybersecurity-all](https://github.com/paulveillard/cybersecurity).
 - Even more lists [awesome](https://github.com/sindresorhus/awesome).
 - Another list? [list](https://github.com/paulveillard/lists).
 - WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
