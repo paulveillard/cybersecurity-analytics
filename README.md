@@ -190,8 +190,8 @@ Often there is no clear differentiation between social media management and anal
 * [EDA](https://eda.jortilles.com/en/jortilles-english/) - EDA is an user friendly Analtical Tool specially designed for busines users.  ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
 
 # Other Awesome Lists
-- Other cybersecurity lists [Cybersecurity-all](https://github.com/paulveillard/cybersecurity).
+- Other cybersecurity lists [Collection](https://github.com/exajobs/collection).
 - Even more lists [awesome](https://github.com/sindresorhus/awesome).
 - Another list? [list](https://github.com/paulveillard/lists).
 - WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
-- Analytics [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+- Analytics [Data Engineering Collection](https://github.com/exajobs/data-engineering-collection).
